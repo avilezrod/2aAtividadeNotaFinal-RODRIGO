@@ -1,1 +1,4 @@
-# 2aAtividadeNotaFinal-RODRIGO
+# 2aAtividadeNotaFinal
+
+Aluno: Rodrigo Avilez Crisóstomo 
+Matrícula: 202502418621
