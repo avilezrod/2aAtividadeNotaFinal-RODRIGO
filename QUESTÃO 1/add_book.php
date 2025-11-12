@@ -3,7 +3,7 @@ include 'database.php';
 
 $titulo = trim($_POST['titulo'] ?? '');
 $autor = trim($_POST['autor'] ?? '');
-ano_pub = intval($_POST['ano_pub'] ?? 0);
+$ano_pub = intval($_POST['ano_pub'] ?? 0);
 
 
 if ($titulo === '' || $autor === '' || $ano_pub === 0) {
